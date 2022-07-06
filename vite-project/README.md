@@ -2,6 +2,8 @@
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
+From Kevin Powell's YouTube video: https://www.youtube.com/watch?v=h3bTwCqX4ns&t=846s
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
